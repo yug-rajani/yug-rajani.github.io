@@ -5,7 +5,7 @@ title: Home
 
 # About
 
-Currently pursuing a Master's in Computer Science at [Northeastern University](http://northeastern.edu)'s [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu) in Boston, I'm a dedicated Computer Science graduate student driven by continuous skill exploration.
+Currently pursuing a Master's in Computer Science at [Northeastern University](http://northeastern.edu)'s [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu) in Boston, I'm a dedicated CS graduate student driven by continuous skill exploration.
 
 Experienced in software development and problem-solving, I quickly adapt to new tech. Proficient in Java, Python, OOP, Data Structures, and Algorithms, I emphasize clean code through best practices.
 
