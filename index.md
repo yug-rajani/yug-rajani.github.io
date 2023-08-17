@@ -5,17 +5,17 @@ title: Home
 
 # About
 
-I am pursuing a Master's in Computer Science at [Northeastern University](http://northeastern.edu)'s [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu) in Boston. As a passionate Computer Science graduate student, I'm always exploring novel applications of my technical skills.
+Currently pursuing a Master's in Computer Science at [Northeastern University](http://northeastern.edu)'s [Khoury College of Computer Sciences](https://www.khoury.northeastern.edu) in Boston, I'm a dedicated Computer Science graduate student driven by continuous skill exploration.
 
-With a background in software development and robust problem-solving abilities, I swiftly adapt to new technologies. I'm skilled in Java and Python, well-versed in Object-Oriented concepts, Data Structures, and Algorithms. My dedication to best programming practices ensures clean and efficient code.
+Experienced in software development and problem-solving, I quickly adapt to new tech. Proficient in Java, Python, OOP, Data Structures, and Algorithms, I emphasize clean code through best practices.
 
-Beyond studies, I have contributed as a Research Assistant at the NU WiNS Lab, analyzing 5G mm wave data in Boston, and engaged as a Teaching Assistant for CS 3200 and CS 5200, helping students comprehend Database Design concepts.
+Beyond studies, I have contributed as a Research Assistant at the [NU WiNS Lab](https://ece.northeastern.edu/fac-ece/dkoutsonikolas/nuwins/), analyzing 5G mm wave data in Boston, and engaged as a Teaching Assistant, helping students comprehend Database Design concepts.
 
-Before enrolling in the MS CS program, I gained valuable experience as a Software Engineer at Crest Data Systems Pvt. Ltd. There, I successfully delivered software solutions meeting clients' needs, honing my collaborative and independent problem-solving skills. I also mentored interns in Elasticsearch, guiding their professional growth.
+As a former Software Engineer at [Crest Data Systems Pvt. Ltd.](http://crestdatasys.com), I successfully delivered software solutions meeting clients' needs, honing my collaborative and independent problem-solving skills. I also mentored interns in Elasticsearch, guiding their professional growth.
 
-Motivated by my passion for growth, I'm eager to broaden my skills and capitalize on my experiences. Currently seeking SDE internship/co-op positions for Spring/Summer 2024, If you know of suitable roles or simply want to connect, feel free to reach out.
+Eager for growth, I'm actively seeking Software Development Engineer (SDE) internship/co-op roles for Spring/Summer 2024. If you know fitting positions or wish to connect, don't hesitate to [reach out](mailto:rajani.y@northeastern.edu).
 
-Interested to learn more? Browse my resume [here](/cv) or download the PDF [here](/cv.pdf). If you're up for it, let's chat over coffee – my treat!
+Feel free to browse my resume [here](/cv) or download the PDF [here](/cv.pdf). And hey, if you're up for it, let's catch up over coffee – my treat!
 
 <!-- The theme also ships with a blog: [click here](/posts) to scroll posts from the most recent. Finally, [click here](/404) to see a page that can't be found.
 
