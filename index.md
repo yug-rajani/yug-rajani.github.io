@@ -5,11 +5,17 @@ title: Home
 
 # About
 
-I'm currently pursuing my MS in Computer Science at Northeastern University. As a CS grad student, I'm always exploring new applications for my technical skills. With a background in software development, strong problem-solving abilities, and adaptability to new tech, I'm skilled in Java, Python, and fundamental concepts like OOP, Data Structures, and Algorithms.
+I am currently pursuing a Master's in Computer Science at Northeastern University's Khoury College of Computer Sciences in Boston, MA. As a dedicated Computer Science graduate student, I am constantly exploring new and innovative applications of my technical skills.
 
-I'm a Research Assistant at NU WiNS Lab, working on 5G mm wave data analysis, and also a Teaching Assistant, guiding students in Database Design. My prior role as a Software Engineer at Crest Data Systems honed my collaboration and problem-solving skills.
+My experience in software development, combined with strong problem-solving abilities, enables me to quickly adapt to emerging technologies. Proficient in Java and Python, I possess a solid understanding of Object-Oriented concepts, Data Structures, and Algorithms. My commitment to best programming practices ensures clean and efficient code.
 
-Eager to expand my skills, I'm excited about new opportunities and learning from industry pros. Seeking SDE internships/co-ops for Spring/Summer 2024. Feel free to [check my resume](/cv.pdf).
+Outside of academics, I contribute as a Research Assistant at the NU WiNS Lab, actively involved in collecting and analyzing 5G mm wave data. I also engage as a Teaching Assistant, helping students grasp Database Design concepts.
+
+Before enrolling in the MS CS program, I gained valuable experience as a Software Engineer at Crest Data Systems Pvt. Ltd. There, I successfully delivered software solutions meeting clients' needs, honing my collaborative and independent problem-solving skills. I also mentored interns in Elasticsearch, guiding their professional growth.
+
+Driven by a passion for growth, I am excited to expand my skill set and build upon my experiences. I am currently seeking Software Development Engineer (SDE) internship/co-op opportunities for Spring/Summer 2024. If you know of suitable roles or simply want to connect, feel free to reach out.
+
+Curious to know more? Take a look [at my resume](/cv). And hey, if you're up for it, let's catch up over coffee – my treat!
 
 <!-- The theme also ships with a blog: [click here](/posts) to scroll posts from the most recent. Finally, [click here](/404) to see a page that can't be found.
 
