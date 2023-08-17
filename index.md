@@ -5,19 +5,11 @@ title: Home
 
 # About
 
-I am currently pursuing a Masters in Computer Science (MS CS) at Khoury College of Computer Sciences, Northeastern University, Boston. As a Computer Science graduate student, I am continuously exploring and learning novel applications of my technical skills.
+I'm currently pursuing my MS in Computer Science at Northeastern University. As a CS grad student, I'm always exploring new applications for my technical skills. With a background in software development, strong problem-solving abilities, and adaptability to new tech, I'm skilled in Java, Python, and fundamental concepts like OOP, Data Structures, and Algorithms.
 
-My experience in software development, coupled with strong problem-solving and analytical abilities, enables me to adapt quickly to new technologies. I possess proficient programming skills in Java, a solid grasp of Python, and a strong foundation in Object-Oriented concepts, Data Structures, and Algorithms. Moreover, I am committed to adhering to best programming practices and maintaining clean code.
+I'm a Research Assistant at NU WiNS Lab, working on 5G mm wave data analysis, and also a Teaching Assistant, guiding students in Database Design. My prior role as a Software Engineer at Crest Data Systems honed my collaboration and problem-solving skills.
 
-In addition to my academic pursuits, I am a Research Assistant at the NU WiNS Lab, where I contribute to collecting and analyzing 5G mm wave data in Boston. As a Teaching Assistant, I engage with students in the Database Design course, providing support and guidance to foster their understanding of the subject matter.
-
-Before enrolling in the MS CS program, I honed my skills as a Software Engineer at Crest Data Systems Pvt. Ltd., where I successfully developed and implemented software solutions that met client needs. This experience underscored my ability to collaborate effectively in both independent and team settings to solve intricate challenges and deliver exceptional outcomes. I also had the privilege of mentoring and tutoring interns in Elasticsearch, facilitating their technical growth and professional advancement.
-
-I am enthusiastic about further expanding my skill set and leveraging my past experiences as I progress through my Master's program. The prospect of discovering new opportunities and learning from esteemed professionals in the field excites me greatly.
-
-Currently, I am actively seeking Software Development Engineer (SDE) internship/co-op opportunities starting Spring/Summer 2024. If you come across any suitable roles, please don't hesitate to get in touch with me.
-
-This was a little bit about me. [Click here](/cv.pdf) to download my resume. 
+Eager to expand my skills, I'm excited about new opportunities and learning from industry pros. Seeking SDE internships/co-ops for Spring/Summer 2024. Feel free to [check my resume](/cv.pdf).
 
 <!-- The theme also ships with a blog: [click here](/posts) to scroll posts from the most recent. Finally, [click here](/404) to see a page that can't be found.
 
