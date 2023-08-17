@@ -15,7 +15,7 @@ As a former Software Engineer at [Crest Data Systems Pvt. Ltd.](http://crestdata
 
 Eager for growth, I'm actively seeking Software Development Engineer (SDE) internship/co-op roles for Spring/Summer 2024. If you know fitting positions or wish to connect, don't hesitate to [reach out](mailto:rajani.y@northeastern.edu).
 
-Feel free to browse my resume [here](/cv) or download the PDF [here](/cv.pdf). And hey, if you're up for it, let's catch up over coffee – my treat!
+Feel free to browse my resume [here](/cv) or download the PDF [here](http://yug-rajani.github.io/resume/). And hey, if you're up for it, let's catch up over coffee – my treat!
 
 <!-- The theme also ships with a blog: [click here](/posts) to scroll posts from the most recent. Finally, [click here](/404) to see a page that can't be found.
 
