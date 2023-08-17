@@ -1,0 +1,51 @@
+# site settings
+
+title: Yug Rajani
+description: Software Engineer | Research Assistant | Teaching Assistant
+taglong: Software Engineer | Research Assistant | Teaching Assistant
+tagshort: Software Engineer
+url: https://yug-rajani.github.io
+baseurl: ""
+permalink: pretty
+repo: https://github.com/yug-rajani/yug-rajani.github.io
+
+# author settings
+
+author:
+  name: Yug Rajani
+  email: rajani.y@northeastern.edu
+photo: /assets/jpg/photo.jpg
+
+# build settings
+
+exclude:
+  - LICENSE
+  - README.md
+
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate-v2
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+whitelist:
+  - jekyll-sitemap
+
+sass:
+  sass_dir: _sass
+  style: compressed
+  sourcemap: never
+
+feed:
+  path: atom.xml
+
+autopages:
+  enabled: false
+
+pagination:
+  enabled: true
+  per_page: 1
+  sort_reverse: true
+  permalink: /:num/
+  title: ":title &middot; Page :num"
