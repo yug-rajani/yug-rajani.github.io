@@ -26,8 +26,6 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
   <div style="float: right;">Jan 2023-Dec 2024</div>
 </div>
 
-<br>
-
 <div>
   <div style="float: left;">Khoury College of Computer Sciences</div>
   <div style="float: right;">GPA: 4.0 / 4.0</div>
@@ -35,8 +33,12 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 
 <br>
 
-
 * Trying out
+
+- **Northeastern University, Boston, MA** *(Jan 2023 - Dec 2024)*
+  - *Khoury College of Computer Sciences*
+  - **GPA: 4.0 / 4.0**
+
 
 ## Projects
 
