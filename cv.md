@@ -23,6 +23,7 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 ## Education
 
 - **Northeastern University, Boston, MA** *(Jan 2023 - Dec 2024)*
+  - *Master of Science in Computer Science*
   - *Khoury College of Computer Sciences*
   - **GPA: 4.0 / 4.0**
   - Relevant Coursework:
@@ -36,6 +37,21 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
     - CS 5200: Database Management Systems *(Fall 2023)*
   - Research Assistant Experience:
     - Northeastern University Wireless Networking and Systems Lab
+
+- **Northeastern University, Boston, MA** *(Jan 2023 - Dec 2024)*
+  - *Master of Science in Computer Science*
+  - *Khoury College of Computer Sciences*
+  - **GPA: 4.0 / 4.0**
+
+  **Relevant Coursework:**
+  - Course 1
+  - Course 2
+  - Course 3
+
+  **Instructional Roles:**
+  - Course A (Semester)
+  - Course B (Semester)
+  - Course C (Semester)
 
 
 ## Projects
