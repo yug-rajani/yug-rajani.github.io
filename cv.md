@@ -48,8 +48,7 @@ I have successfully applied my software engineering expertise to develop effecti
 
 I have been actively involved in various projects that showcase my strong problem-solving skills and technical proficiency. Through these projects, I have demonstrated my ability to design innovative solutions and deliver impactful outcomes.
 
-- **Image Manipulation & Enhancement** <br>
+- **Image Manipulation & Enhancement** (*Mar 2023 - Apr 2023*)<br>
   *Java, Swing, Object Oriented Design* <br>
-  *Mar 2023 - Apr 2023* <br>
   - Crafted a GUI-based image editor, implementing a blend of MVC architecture, design patterns, and adherence to SOLID principles.
   - Tested the system extensively using Test Driven Development Methodology to ensure intended behaviour with >80% test coverage.
