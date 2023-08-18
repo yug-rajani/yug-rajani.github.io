@@ -48,7 +48,18 @@ I have successfully applied my software engineering expertise to develop effecti
 
 I have been actively involved in various projects that showcase my strong problem-solving skills and technical proficiency. Through these projects, I have demonstrated my ability to design innovative solutions and deliver impactful outcomes.
 
-- **Image Manipulation & Enhancement** (*Mar 2023 - Apr 2023*)<br>
-  *Java, Swing, Object Oriented Design* <br>
+- **Optimal Resource Allocation in Cloud Computing Environments** *(Aug 2023)*<br>
+  *Python, Data Structures, Algorithms*
+  - Spearheaded a comprehensive analysis of intricate cloud resource allocation challenges, leading the strategic implementation of an algorithmic solution for enhanced Virtual Machine (VM) assignment accuracy within complex cloud environments.
+  - Pioneered the development of an advanced algorithm to tackle the NP-hard nature of VM allocation challenges, contributing to the refinement of resource allocation strategies within cloud computing and producing a suboptimal solution to the hard problem.
+
+- **Image Manipulation & Enhancement** *(Apr 2023)*<br>
+  *Java, Swing, Object Oriented Design*
   - Crafted a GUI-based image editor, implementing a blend of MVC architecture, design patterns, and adherence to SOLID principles.
   - Tested the system extensively using Test Driven Development Methodology to ensure intended behaviour with >80% test coverage.
+
+- **Parking Management System** *(Apr 2023)*<br>
+  *Python, MySQL, Database Management Systems*
+  - Developed a comprehensive Parking Management System utilizing Python and MySQL, facilitating efficient management of parking spaces, resulting in a 20% reduction in parking wait times.
+  - Led a cross-functional team in designing and implementing a user-friendly CLI interface, contributing to a improvement in user satisfaction and an increase in data accuracy for parking events.
+
