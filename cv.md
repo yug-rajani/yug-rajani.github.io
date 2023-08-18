@@ -12,14 +12,14 @@ title: Resume
 I have successfully applied my software engineering expertise to develop effective solutions for real-world challenges. With a proven ability to work both independently and collaboratively, I consistently deliver high-quality results.
 
 - **Crest Data Systems**, Ahmedabad, India *(May 2021 - Oct 2022)* <br>
-  Software Engineer *Python (FastAPI), ELK Stack, Golang*
+  **Software Engineer** | *Python (FastAPI), ELK Stack, Golang*
   - Collaborated with cross-functional teams across 2 Business Units (Security Analytics and Automation, Product and Solutions).
   - Optimized Cisco SDWAN report generation feature using FastAPI async/await mechanism, enabling 2+ concurrent user operations.
   - Developed 10+ Elastic integrations on ELK stack for Security and Observability, including Filebeat and Metricbeat modules.
   - Led and mentored technological onboarding of a team of 6 new hires, in the technology of ELK and provided hands-on training.
 
 - **Crest Data Systems**, Ahmedabad, India *(Dec 2020 - May 2021)* <br>
-  Software Engineer Intern *Python (Flask), Splunk, PostgreSQL*
+  **Software Engineer Intern** | *Python (Flask), Splunk, PostgreSQL*
   - Implemented back-end for web application to simplify and automate migration of 3 types of assets from Elasticsearch to Splunk.
   - Designed a Selenium script to automate verification of ingested data into visualizations thereby increasing efficiency by 30%.
   - Coordinated with 5+ team leads for improving performance of Pagerduty and Slack alert migration functionality.
@@ -40,7 +40,7 @@ I have successfully applied my software engineering expertise to develop effecti
   - Received First Class with Distinction.
   - Secured 1st Rank across branches in the university in 1st Year of Bachelors.
   - Secured All India Rank 16 in National Creativity Aptitude Test (NCAT).
-  - Organized technical and cultural events for students and researchers.
+  - Collaboratively contributed to the organization of engaging national-level technocultural events as part of the annual Felicific festival at Dharmsinh Desai University.
   - Won second place out of 25 teams in a Python hackathon by implementing an automated solution for a hands-on submissions.
 
 
