@@ -13,7 +13,7 @@ Beyond studies, I have contributed as a Research Assistant at the [NU WiNS Lab](
 
 As a former Software Engineer at [Crest Data Systems Pvt. Ltd.](http://crestdatasys.com), I successfully delivered software solutions meeting clients' needs, honing my collaborative and independent problem-solving skills. I also mentored interns in Elasticsearch, guiding their professional growth.
 
-Eager for growth, I'm actively seeking Software Development Engineer (SDE) internship/co-op roles for Spring/Summer 2024. If you know fitting positions or wish to connect, don't hesitate to [reach out](mailto:rajani.y@northeastern.edu).
+Eager for growth, I'm actively seeking Software Development Engineer (SDE) internship/co-op roles for Spring/Summer 2024. If you know any relevant positions or wish to connect, feel free to [reach out](mailto:rajani.y@northeastern.edu).
 
 Feel free to browse my resume [here](/cv) or download the PDF [here](http://yug-rajani.github.io/resume/). And hey, if you're up for it, let's catch up over coffee – my treat!
 

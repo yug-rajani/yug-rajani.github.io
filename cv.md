@@ -37,7 +37,7 @@ I have successfully applied my software engineering expertise to develop effecti
 - **Dharmsinh Desai University, Nadiad** *(Jun 2017 - May 2021)* <br>
   <span style="font-weight: bold; color: #999;">Faculty of Technology</span> <br>
   <span style="font-weight: bold; color: #999;">Bachelor of Technology in Computer Engineering</span> *(GPA: 4.0 / 4.0)*
-  - Received First Class with Distinction.
+  - Attained a degree completion with the distinction of achieving a Summa Cum Laude level of excellence.
   - Secured 1st Rank across branches in the university in 1st Year of Bachelors.
   - Secured All India Rank 16 in National Creativity Aptitude Test (NCAT).
   - Collaboratively contributed to the organization of engaging national-level technocultural events as part of the annual Felicific festival at Dharmsinh Desai University.
@@ -46,13 +46,10 @@ I have successfully applied my software engineering expertise to develop effecti
 
 ## Projects
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+I have been actively involved in various projects that showcase my strong problem-solving skills and technical proficiency. Through these projects, I have demonstrated my ability to design innovative solutions and deliver impactful outcomes.
 
-### Image Manipulation and Enhancement
-
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-* Ut enim ad minim veniam
-* Quis nostrud exercitation
-* Ullamco laboris nisi
-* Ut aliquip ex ea commodo consequat
+- **Image Manipulation & Enhancement** <br>
+  *Java, Swing, Object Oriented Design* <br>
+  *Mar 2023 - Apr 2023* <br>
+  - Crafted a GUI-based image editor, implementing a blend of MVC architecture, design patterns, and adherence to SOLID principles.
+  - Tested the system extensively using Test Driven Development Methodology to ensure intended behaviour with >80% test coverage.
