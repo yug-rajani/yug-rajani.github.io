@@ -7,7 +7,7 @@ title: Resume
 
 {% include contact.html %}
 
-TL;DR: Check out my qualifications and accomplishments in my [resume PDF](http://yug-rajani.github.io/resume/)!
+TL;DR: Check out my qualifications and accomplishments in my [resume PDF](http://yug-rajani.github.io/resume/){:target="_blank"}!
 
 ## Work Experience
 
