@@ -11,7 +11,7 @@ title: Resume
 
 I have successfully applied my software engineering expertise to develop effective solutions for real-world challenges. With a proven ability to work both independently and collaboratively, I consistently deliver high-quality results.
 
-- <strong>Crest Data Systems</strong>, Ahmedabad, India *(May 2021 - Oct 2022)* <br>
+- **Crest Data Systems**, Ahmedabad, India *(May 2021 - Oct 2022)* <br>
   <span style="font-weight: bold; color: #999;">Software Engineer</span> | *Python (FastAPI), ELK Stack, Golang*
   - Collaborated with cross-functional teams across 2 Business Units (Security Analytics and Automation, Product and Solutions).
   - Optimized Cisco SDWAN report generation feature using FastAPI async/await mechanism, enabling 2+ concurrent user operations.
@@ -19,7 +19,7 @@ I have successfully applied my software engineering expertise to develop effecti
   - Led and mentored technological onboarding of a team of 6 new hires, in the technology of ELK and provided hands-on training.
 
 - **Crest Data Systems**, Ahmedabad, India *(Dec 2020 - May 2021)* <br>
-  Software Engineer Intern | *Python (Flask), Splunk, PostgreSQL*
+  <span style="font-weight: bold; color: #999;">Software Engineer Intern</span> | *Python (Flask), Splunk, PostgreSQL*
   - Implemented back-end for web application to simplify and automate migration of 3 types of assets from Elasticsearch to Splunk.
   - Designed a Selenium script to automate verification of ingested data into visualizations thereby increasing efficiency by 30%.
   - Coordinated with 5+ team leads for improving performance of Pagerduty and Slack alert migration functionality.
@@ -28,15 +28,15 @@ I have successfully applied my software engineering expertise to develop effecti
 ## Education
 
 - **Northeastern University, Boston, MA** *(Jan 2023 - Dec 2024)* <br>
-  Khoury College of Computer Sciences <br>
-  Master of Science in Computer Science *(Current GPA: 4.0 / 4.0)*
+  <span style="font-weight: bold; color: #999;">Khoury College of Computer Sciences</span> <br>
+  <span style="font-weight: bold; color: #999;">Master of Science in Computer Science</span> *(Current GPA: 4.0 / 4.0)*
   - Teaching Assistant with Dr. Kathleen Durant, engaging with students in the Database Design (CS 3200) and Database Management Systems (CS 5200) courses to foster understanding and growth.
   - Research Assistant with Dr. Dimitrios Koutsonikolas at NU Wireless Networking and Systems Lab, contributing to 5G mm wave data collection and analysis in Boston, MA.
   - Student Success Guide with the Student Success Initiative, guiding and supporting fellow students in their academic and personal journey, providing assistance in navigating university resources and fostering a thriving and inclusive campus community.
 
 - **Dharmsinh Desai University, Nadiad** *(Jun 2017 - May 2021)* <br>
-  Faculty of Technology <br>
-  Bachelor of Technology in Computer Engineering *(GPA: 4.0 / 4.0)*
+  <span style="font-weight: bold; color: #999;">Faculty of Technology</span> <br>
+  <span style="font-weight: bold; color: #999;">Bachelor of Technology in Computer Engineering</span> *(GPA: 4.0 / 4.0)*
   - Received First Class with Distinction.
   - Secured 1st Rank across branches in the university in 1st Year of Bachelors.
   - Secured All India Rank 16 in National Creativity Aptitude Test (NCAT).
