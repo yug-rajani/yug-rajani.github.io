@@ -63,3 +63,38 @@ I have been actively involved in various projects that showcase my strong proble
   - Developed a comprehensive Parking Management System utilizing Python and MySQL, facilitating efficient management of parking spaces, resulting in a 20% reduction in parking wait times.
   - Led a cross-functional team in designing and implementing a user-friendly CLI interface, contributing to a improvement in user satisfaction and an increase in data accuracy for parking events.
 
+- **Speech Recognition & Voice Detection** *(Apr 2020)*<br>
+  *Python (Django), TensorFlow (Keras), Bootstrap, JavaScript*
+  - Engineered a speaker identifier by extracting 40-dimensional MFCCs from speech frames using a neural network.
+  - Brainstormed and built a Keras (TensorFlow) model using MFCC features for speech recognition and voice detection, achieving >95% accuracy in speaker identification, and designed a user interface for the application providing an intuitive user experience.
+
+- **Workflow Management System** *(Apr 2020)*<br>
+  *C#, Microsoft SQL Server*
+  - Developed a Windows Forms Application aimed at enhancing industrial workflow management, facilitating seamless process optimization and automation.
+  - Designed and implemented a comprehensive Workflow Management System with features for task sequencing, data automation, and performance tracking, enabling efficient task execution and improved productivity.
+
+- **Agriculture Information System** *(Nov 2019)*<br>
+  *Entity Framework, Azure Cloud, CSS, JavaScript, Bootstrap*
+  - Executed a Model-View-Controller (MVC) project for the WDDN course, integrating essential features including Entity Framework for database management and authentication.
+  - Implemented comprehensive CRUD operations and admin-level functionalities to ensure seamless data management. Optional enhancements encompassed CSS, Javascript, and Bootstrap, resulting in a user-friendly interface.
+
+- **Health-Fitness Management Application** *(Nov 2019)*<br>
+  *Angular CLI, NodeJS, MongoDB, ExpressJS, TypeScript, AJAX*
+  - Developed the "Health-Fitness Management Application," a dynamic web project that utilizes AngularJS, NodeJS, and other front-end technologies to promote users' health awareness. The application facilitates the adoption of a fit lifestyle by monitoring daily activities, water intake, sleep patterns, and body measurements.
+  - Integrated AngularJS and NodeJS to ensure seamless data flow and interactive user experience, enabling users to track and manage their health-related information effectively.
+
+- **Cookie Rookie - Online Recipe System** *(Apr 2019)*<br>
+  *PHP, SQL, HTML, CSS, JavaScript*
+  - Created a PHP-based web application catering to both novice and experienced cooks, allowing users to access provided recipes or upload their own culinary creations.
+  - Designed an intuitive workflow for end users that includes seamless registration, login, and recipe uploading processes. The system offers features like recipe categorization, personalized "My Recipes" sections, and feedback provision, enhancing the user experience and interaction with the platform.
+
+- **Restaurant Automation** *(Apr 2019)*<br>
+  *Python (Django), MySQL, ORM*
+  - Developed a web-based system using Django that streamlines order processing and bill generation, enhancing the efficiency of restaurant operations.
+  - Implemented an intuitive user interface for customers to place orders seamlessly and an automated billing mechanism that reduces manual efforts and ensures accurate transactions.
+
+<!-- - **Project Name** *(Month YYYY)*<br>
+  *Tech Stack*
+  - Bullet 1
+  - Bullet 2 -->
+
