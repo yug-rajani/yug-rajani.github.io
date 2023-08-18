@@ -7,6 +7,8 @@ title: Resume
 
 {% include contact.html %}
 
+TL;DR: Explore my profile and abilities in my [resume PDF](http://yug-rajani.github.io/resume/)!
+
 ## Work Experience
 
 I have successfully applied my software engineering expertise to develop effective solutions for real-world challenges. With a proven ability to work both independently and collaboratively, I consistently deliver high-quality results.
