@@ -23,9 +23,8 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 ## Education
 
 - **Northeastern University, Boston, MA** *(Jan 2023 - Dec 2024)*
-  - *Master of Science in Computer Science*
-  - *Khoury College of Computer Sciences*
-  - **GPA: 4.0 / 4.0**
+  **Khoury College of Computer Sciences**
+  **Master of Science in Computer Science** *(GPA: 4.0 / 4.0)*
   - Relevant Coursework:
     - CS 5010: Programming Design Paradigms
     - CS 5200: Database Management Systems
