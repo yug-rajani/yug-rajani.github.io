@@ -22,8 +22,8 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 
 ## Education
 
-- **Northeastern University, Boston, MA** *(Jan 2023 - Dec 2024)*
-  **Khoury College of Computer Sciences**
+- **Northeastern University, Boston, MA** *(Jan 2023 - Dec 2024)* <br>
+  **Khoury College of Computer Sciences** <br>
   **Master of Science in Computer Science** *(GPA: 4.0 / 4.0)*
   - Relevant Coursework:
     - CS 5010: Programming Design Paradigms
@@ -37,20 +37,11 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
   - Research Assistant Experience:
     - Northeastern University Wireless Networking and Systems Lab
 
-- **Northeastern University, Boston, MA** *(Jan 2023 - Dec 2024)*
-  - *Master of Science in Computer Science*
-  - *Khoury College of Computer Sciences*
-  - **GPA: 4.0 / 4.0**
-
-  **Relevant Coursework:**
-  - Course 1
-  - Course 2
-  - Course 3
-
-  **Instructional Roles:**
-  - Course A (Semester)
-  - Course B (Semester)
-  - Course C (Semester)
+- **Northeastern University, Boston, MA** *(Jan 2023 - Dec 2024)* <br>
+  **Khoury College of Computer Sciences** <br>
+  **Master of Science in Computer Science** *(GPA: 4.0 / 4.0)*
+  - Point 1
+  - Point 2
 
 
 ## Projects
