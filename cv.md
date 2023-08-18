@@ -23,7 +23,7 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 ## Education
 ### Northeastern University, Khoury College of Computer Sciences
 #### Master of Science in Computer Science
-#### Jan 2023 - Dec 2024
+##### Jan 2023 - Dec 2024
 #### GPA: 4.0 / 4.0
 
 * Trying out
