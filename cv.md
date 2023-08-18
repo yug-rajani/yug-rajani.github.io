@@ -25,23 +25,18 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 - **Northeastern University, Boston, MA** *(Jan 2023 - Dec 2024)* <br>
   Khoury College of Computer Sciences <br>
   Master of Science in Computer Science *(GPA: 4.0 / 4.0)*
-  - Relevant Coursework:
-    - CS 5010: Programming Design Paradigms
-    - CS 5200: Database Management Systems
-    - CS 5500: Foundations of Software Engineering
-    - CS 5610: Web Development
-    - CS 5800: Algorithms
-  - Teaching Assistant Experience:
-    - CS 3200: Database Design *(Summer 1 2023)*
-    - CS 5200: Database Management Systems *(Fall 2023)*
-  - Research Assistant Experience:
-    - Northeastern University Wireless Networking and Systems Lab
+  - Teaching Assistant with Dr. Kathleen Durant, engaging with students in the Database Design (CS 3200) and Database Management Systems (CS 5200) courses to foster understanding and growth.
+  - Research Assistant with Dr. Dimitrios Koutsonikolas at NU Wireless Networking and Systems Lab, contributing to 5G mm wave data collection and analysis in Boston, MA.
+  - Student Success Guide with the Student Success Initiative, guiding and supporting fellow students in their academic and personal journey, providing assistance in navigating university resources and fostering a thriving and inclusive campus community.
 
-- **Northeastern University, Boston, MA** *(Jan 2023 - Dec 2024)* <br>
-  Khoury College of Computer Sciences <br>
-  Master of Science in Computer Science *(GPA: 4.0 / 4.0)*
-  - Point 1
-  - Point 2
+- **Dharmsinh Desai University, Nadiad** *(Jun 2017 - May 2021)* <br>
+  Faculty of Technology <br>
+  Bachelor of Technology in Computer Engineering *(GPA: 4.0 / 4.0)*
+  - Received First Class with Distinction.
+  - Secured 1st Rank across branches in the university in 1st Year of Bachelors.
+  - Secured All India Rank 16 in National Creativity Aptitude Test (NCAT).
+  - Organized technical and cultural events for students and researchers.
+  - Won second place out of 25 teams in a Python hackathon by implementing an automated solution for a hands-on submissions.
 
 
 ## Projects
