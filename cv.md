@@ -21,10 +21,20 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 * Ut aliquip ex ea commodo consequat
 
 ## Education
-### Northeastern University, Khoury College of Computer Sciences
-#### Master of Science in Computer Science
-##### Jan 2023 - Dec 2024
-#### GPA: 4.0 / 4.0
+<div>
+  <div style="float: left;">Northeastern University, Boston, MA</div>
+  <div style="float: right;">Jan 2023-Dec 2024</div>
+</div>
+
+<br>
+
+<div>
+  <div style="float: left;">Khoury College of Computer Sciences</div>
+  <div style="float: right;">GPA: 4.0 / 4.0</div>
+</div>
+
+<br>
+
 
 * Trying out
 
