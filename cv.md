@@ -11,8 +11,8 @@ title: Resume
 
 I have successfully applied my software engineering expertise to develop effective solutions for real-world challenges. With a proven ability to work both independently and collaboratively, I consistently deliver high-quality results.
 
-- **Crest Data Systems**, Ahmedabad, India *(May 2021 - Oct 2022)* <br>
-  <sub>**Software Engineer**</sub> | *Python (FastAPI), ELK Stack, Golang*
+- <strong>Crest Data Systems</strong>, Ahmedabad, India *(May 2021 - Oct 2022)* <br>
+  **Software Engineer** | *Python (FastAPI), ELK Stack, Golang*
   - Collaborated with cross-functional teams across 2 Business Units (Security Analytics and Automation, Product and Solutions).
   - Optimized Cisco SDWAN report generation feature using FastAPI async/await mechanism, enabling 2+ concurrent user operations.
   - Developed 10+ Elastic integrations on ELK stack for Security and Observability, including Filebeat and Metricbeat modules.
