@@ -7,17 +7,6 @@ title: Resume
 
 {% include contact.html %}
 
-## Education
-
-### Northeastern University
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-* Ut enim ad minim veniam
-* Quis nostrud exercitation
-* Ullamco laboris nisi
-* Ut aliquip ex ea commodo consequat
-
 ## Work Experience
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -30,6 +19,14 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 * Quis nostrud exercitation
 * Ullamco laboris nisi
 * Ut aliquip ex ea commodo consequat
+
+## Education
+### Northeastern University
+
+* Khoury College of Computer Sciences
+* Candidate for Master of Science in Computer Science
+* Jan 2023 - Dec 2024
+* GPA: 4.0 / 4.0
 
 ## Projects
 
