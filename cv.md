@@ -21,23 +21,21 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 * Ut aliquip ex ea commodo consequat
 
 ## Education
-<div>
-  <div style="float: left;">Northeastern University, Boston, MA</div>
-  <div style="float: right;">Jan 2023-Dec 2024</div>
-</div>
-
-<div>
-  <div style="float: left;">Khoury College of Computer Sciences</div>
-  <div style="float: right;">GPA: 4.0 / 4.0</div>
-</div>
-
-<br>
-
-* Trying out
 
 - **Northeastern University, Boston, MA** *(Jan 2023 - Dec 2024)*
   - *Khoury College of Computer Sciences*
   - **GPA: 4.0 / 4.0**
+  - Relevant Coursework:
+    - CS 5010: Programming Design Paradigms
+    - CS 5200: Database Management Systems
+    - CS 5500: Foundations of Software Engineering
+    - CS 5610: Web Development
+    - CS 5800: Algorithms
+  - Teaching Assistant Experience:
+    - CS 3200: Database Design *(Summer 1 2023)*
+    - CS 5200: Database Management Systems *(Fall 2023)*
+  - Research Assistant Experience:
+    - Northeastern University Wireless Networking and Systems Lab
 
 
 ## Projects
