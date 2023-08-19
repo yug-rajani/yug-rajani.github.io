@@ -27,6 +27,8 @@ I have successfully applied my software engineering expertise to develop effecti
   - Coordinated with 5+ team leads for improving performance of Pagerduty and Slack alert migration functionality.
   - Created RESTful APIs, performed integration and unit testing using PyTest and Selenium, achieving 10% higher test coverage.
 
+---
+
 ## Education
 
 - **Northeastern University, Boston, MA** *(Jan 2023 - Dec 2024)* <br>
@@ -45,6 +47,7 @@ I have successfully applied my software engineering expertise to develop effecti
   - Collaboratively contributed to the organization of engaging national-level technocultural events as part of the annual Felicific festival at Dharmsinh Desai University.
   - Won second place out of 25 teams in a Python hackathon by implementing an automated solution for a hands-on submissions.
 
+---
 
 ## Projects
 
