@@ -20,6 +20,8 @@ I have successfully applied my software engineering expertise to develop effecti
   - Developed 10+ Elastic integrations on ELK stack for Security and Observability, including Filebeat and Metricbeat modules.
   - Led and mentored technological onboarding of a team of 6 new hires, in the technology of ELK and provided hands-on training.
 
+<br>
+
 - **Crest Data Systems**, Ahmedabad, India *(Dec 2020 - May 2021)* <br>
   <span style="font-weight: bold; color: #999;">Software Engineer Intern</span> | *Python (Flask), Splunk, PostgreSQL*
   - Implemented back-end for web application to simplify and automate migration of 3 types of assets from Elasticsearch to Splunk.
