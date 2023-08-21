@@ -66,7 +66,7 @@ I have been actively involved in various projects that showcase my strong proble
 - **Parking Management System** *(Apr 2023)*<br>
   *Python, MySQL, Database Management Systems*
   - Developed a comprehensive Parking Management System utilizing Python and MySQL, facilitating efficient management of parking spaces, resulting in a 20% reduction in parking wait times.
-  - Led a cross-functional team in designing and implementing a user-friendly CLI interface, contributing to a improvement in user satisfaction and an increase in data accuracy for parking events.
+  - Formulated 50+ complex SQL Queries, stored procedures, joins, and triggers to retrieve data from relational database. Constructed conceptual design, logical design, and implemented a CLI based UI to handle 10+ tables.
 
 - **Speech Recognition & Voice Detection** *(Apr 2020)*<br>
   *Python (Django), TensorFlow (Keras), Bootstrap, JavaScript*
