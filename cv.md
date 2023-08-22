@@ -98,6 +98,18 @@ I have been actively involved in various projects that showcase my strong proble
   - Developed a web-based system using Django that streamlines order processing and bill generation, enhancing the efficiency of restaurant operations.
   - Implemented an intuitive user interface for customers to place orders seamlessly and an automated billing mechanism that reduces manual efforts and ensures accurate transactions.
 
+---
+
+## Achievements
+
+- Completed Hacktoberfest Challenge in October 2021 and 2020
+- TCS National Qualifier Test (NQT) Topper
+- Infosys InfyTQ Final Round Participant
+- Cricket Tournament Runner-Up at Sports Fest 2020
+- Table Tennis Tournament Runner-Up at Felicific 2019
+- Secured All India Rank 16 in National Creativity Aptitude Test (NCAT) 2018
+- Secured 1st Rank across branches in the university in 1st Year of Bachelors in Computer Engineering
+
 <!-- - **Project Name** *(Month YYYY)*<br>
   *Tech Stack*
   - Bullet 1
