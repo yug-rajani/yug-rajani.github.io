@@ -11,7 +11,7 @@ Experienced in software development and problem-solving, I quickly adapt to new 
 
 Beyond studies, I have contributed as a Research Assistant at the [NU WiNS Lab](https://ece.northeastern.edu/fac-ece/dkoutsonikolas/nuwins/), analyzing 5G mm wave data in Boston, and engaged as a Teaching Assistant, helping students comprehend Database Design concepts.
 
-As a former Software Engineer at [Crest Data Systems Pvt. Ltd.](http://crestdatasys.com), I successfully delivered software solutions meeting clients' needs, honing my collaborative and independent problem-solving skills. I also mentored interns in Elasticsearch, guiding their professional growth.
+As a former Software Engineer at [Crest Data Systems Pvt. Ltd.](http://crestdatasys.com), I successfully delivered software solutions meeting clients' needs, honing my collaborative and independent problem-solving skills. I also mentored interns in Elasticsearch, guiding their professional development.
 
 Eager for growth, I'm actively seeking Software Development Engineer (SDE) internship/co-op roles for Spring/Summer 2024. If you know any relevant positions or wish to connect, please [reach out](mailto:rajani.y@northeastern.edu).
 
