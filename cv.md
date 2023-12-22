@@ -35,23 +35,29 @@ I have successfully applied my software engineering expertise to develop effecti
 
 - **Crest Data Systems**, Ahmedabad, India *(May 2021 - Oct 2022)* <br>
   <span style="font-weight: bold; color: #999;">Software Engineer</span> | *Python (FastAPI), ELK Stack, Golang*
-  - Collaborated with cross-functional teams across 2 Business Units (Security Analytics and Automation, Product and Solutions).
-  - Optimized Cisco SDWAN report generation feature using FastAPI async/await mechanism, enabling 2+ concurrent user operations.
-  - Developed 10+ Elastic integrations on ELK stack for Security and Observability, including Filebeat and Metricbeat modules.
-  - Led and mentored technological onboarding of a team of 6 new hires, in the technology of ELK and provided hands-on training.
+  - Collaborated within a cross-functional team, leveraging Python and React to build features for the application.
+  - Orchestrated the Docker deployment strategy, leading to a 20% increase in deployment speed of the application.
+  - Optimized Cisco SD-WAN report generation using Python FastAPI async/await for 2+ concurrent user actions.
+  - Developed 10+ integrations and Beats modules for ELK stack, ensuring client success in Security and Observability.
+  - Led and mentored technological onboarding of 6 new hires in the technology of ELK and provided hands-on training.
 
 - **Crest Data Systems**, Ahmedabad, India *(Dec 2020 - May 2021)* <br>
   <span style="font-weight: bold; color: #999;">Software Engineer Intern</span> | *Python (Flask), Splunk, PostgreSQL*
-  - Implemented back-end for web application to simplify and automate migration of 3 types of assets from Elasticsearch to Splunk.
-  - Designed a Selenium script to automate verification of ingested data into visualizations thereby increasing efficiency by 30%.
-  - Coordinated with 5+ team leads for improving performance of Pagerduty and Slack alert migration functionality.
-  - Created RESTful APIs, performed integration and unit testing using PyTest and Selenium, achieving 10% higher test coverage.
+  - Implemented features for web app to develop the migration of 3 types of assets from Elasticsearch to Splunk.
+  - Automated verification of ingested data into visualizations using Selenium, boosting testing efficiency by 30%.
+  - Coordinated with 5+ team leads to develop Pagerduty and Slack alert migration functionality using Python.
+  - Created RESTful APIs, performed integration and unit testing using PyTest, achieving 10% higher test coverage.
 
 ---
 
 ## Projects
 
 I have been actively involved in various projects that showcase my strong problem-solving skills and technical proficiency. Through these projects, I have demonstrated my ability to design innovative solutions and deliver impactful outcomes.
+
+- **Fake Stack Overflow** *(Dec 2023)*<br>
+  *MongoDB, Express.js, React.js, Node.js*
+  - Created a scalable Q&A app with React, Node.js, MongoDB, achieving a 30% reduction in page load times.
+  - Implemented comprehensive Cypress tests, resulting in a 20% decrease in bugs, ensuring a robust user experience.
 
 - **Optimal Resource Allocation in Cloud Computing Environments** *(Aug 2023)*<br>
   *Python, Data Structures, Algorithms*
